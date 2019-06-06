@@ -1,0 +1,10 @@
+*.tar
+*.zip
+*.whl
+venv/
+data/
+glove/
+*.pyc
+*.docx
+Upload/
+.vscode/
